@@ -21,6 +21,11 @@ dependencies = [
     "optuna>=4.4.0",
     "shap>=0.48.0",
     "imbalanced-learn>=0.14.0",
+    "lightgbm>=4.6.0",
+    "statsmodels>=0.14.5",
+    "holidays>=0.80",
+    "xgboost>=3.0.5",
+    "mlforecast>=1.0.2",
 ]
 
 [dependency-groups]
